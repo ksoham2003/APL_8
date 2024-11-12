@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 10px;
+}
+
+.weather-info {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
